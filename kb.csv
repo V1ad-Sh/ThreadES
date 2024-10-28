@@ -1,8 +1,16 @@
 s,p,o
-точіння,перевага,простий інструмент
-точіння,перевага,точність
-нарізання мітчиком,недолік,спеціальний інструмент
-нарізання мітчиком,перевага,технологічність
-точіння,перевага,продуктивність
-точіння,перевага,універсальність
-точіння,недолік,нетехнологічність
+LAD Linear Regression,перевага,Handles multicollinearity well
+Weighted Linear Regression,перевага,Handles multicollinearity well
+LAD Linear Regression,перевага,Interpretable coefficients
+Multiple Linear Regression,перевага,High accuracy in linear relationships
+Multiple Linear Regression,недолік,Requires large sample size
+Multiple Linear Regression,перевага,Robust to outliers
+Weighted Linear Regression,недолік,Assumes linearity
+LAD Linear Regression,перевага,Robust to outliers
+Multiple Linear Regression,перевага,Suitable for small datasets
+Weighted Linear Regression,перевага,Suitable for small datasets
+Weighted Linear Regression,перевага,Robust to outliers
+Multiple Linear Regression,недолік,Sensitive to multicollinearity
+LAD Linear Regression,недолік,Assumes linearity
+Weighted Linear Regression,недолік,Requires large sample size
+LAD Linear Regression,недолік,Complex interpretation
